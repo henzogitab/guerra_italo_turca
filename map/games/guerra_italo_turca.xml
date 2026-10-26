@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE game SYSTEM "game.dtd">
 <game>
-  <info name="Italo-Turkish War 1911-1912" version="1.0.0"/>
+  <info name="Italo-Turkish War 1911-1912" version="1.1.0"/>
   <loader javaClass="games.strategy.triplea.TripleA"/>
   <triplea minimumVersion="2.5"/>
   <diceSides value="6"/>
