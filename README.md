@@ -1,8 +1,8 @@
-# Italo-Turkish War 1911-1912
+# Guerra Italo-Turca 1911-1912
 
-A map for [TripleA](https://triplea-game.org): Italy against the Ottoman Empire and the Senussi order.
-Libya, the Aegean (Rhodes and the Dodecanese), the Dardanelles and the Red Sea. Three players, period units, relief map.
+Mappa per [TripleA](https://triplea-game.org): Italia contro Impero Ottomano e Senussi.
+Libia, Egeo (Rodi e Dodecaneso), Dardanelli e Mar Rosso. Tre giocatori, unità d'epoca, mappa con rilievo.
 
-Rules, units and victory conditions are in the game notes (in TripleA: Help > Game Notes).
+Regole, unità e condizioni di vittoria sono nelle note di gioco (in TripleA: Aiuto > Note di gioco).
 
-Geographic data: Natural Earth (public domain).
+Dati geografici: Natural Earth (pubblico dominio).
